@@ -13,5 +13,14 @@ view
 2. only top rated songs
 3. only comments left on songs
 
-on the first activity users input song details and adds them to the playlist 
-the second activity playlists are displayed 
+on the first activity
+users input song title, artist name and a numeric rating and an optional comment section details and adds them to the playlist
+
+
+on the second activity the user can 
+1. view all songs
+2. view top rated songs
+3. view the comments that they left
+
+source code 
+the code defines a shared playlist variable using a companion object so it can be accessed on both activities 
