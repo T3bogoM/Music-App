@@ -24,3 +24,6 @@ on the second activity the user can
 
 source code 
 the code defines a shared playlist variable using a companion object so it can be accessed on both activities 
+
+
+screenshots arent available due to emulator and android studios not actively working 
